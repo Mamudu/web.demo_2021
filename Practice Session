@@ -5,5 +5,11 @@
 <h1>Mamudu Wally</h1>
 <p>My practice page for HTML.</p>
 
+<p style="text-align: center; color: red;">This activity is a lot of fun. It is nice being able to change the text so it is not just black. I can also move my text around the screen.</p>
+<p style="text-align: right;"><i>This paragraph is italicized. It looks cool to have all of my text slanted.</i></p>
+
+<a href="https://www.wikipedia.org">
+<img src="https://media1.tenor.com/images/aaf7f2bb862a0004acad5bff2b08d927/tenor.gif?itemid=10721555" width="100px" height="100px">
+
 </body>
 </html>
